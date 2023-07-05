@@ -1,3 +1,6 @@
+Aplicação API REST em node com mongoDB do curso da alura Node.js: API REST com Express e MongoDB
+
+
 REST(Representational State Transfer, que significa Transferência Representacional de Estado) é um modelo de arquitetura e não uma linguagem ou tecnologia de programação, que fornece diretrizes para que os sistemas distribuídos se comuniquem diretamente usando os princípios e protocolos existentes da Web sem a necessidade de SOAP ou outro protocolo sofisticado.
 
 A origem do termo REST
