@@ -11,7 +11,7 @@ class AutorController {
         }
     };
 
-    static async listarAutoPorId(req, res) {
+    static async listarAutorPorId(req, res) {
         try {
             const id = req.params.id;
             const autorEncontrado = await autor.findById(id);
